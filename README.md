@@ -6,11 +6,9 @@ I'm a software developer<img src="https://i.ibb.co/xfN0brH/working-cat.gif" widt
 and ofcourse a problem solver
 <img src="https://user-images.githubusercontent.com/78433466/234958011-af96ae46-850e-42df-8a1f-b3499998009b.png" width="30"/>
 <br>
-</h3>
-<h5>
 I'm constantly exploring new technologies and improve my skills 
 <img src="https://user-images.githubusercontent.com/78433466/234958559-5907a4f3-9a21-4660-9c65-823772f758c7.png" width="25"/>
-</h5>
+</h3>
 
 ### 🛠 &nbsp;Tech Stack
 <img  src="https://user-images.githubusercontent.com/78433466/234953332-f4e461b5-2b93-4133-9bc8-ee48440691fa.png" height="30" width="30"/> <img  src="https://user-images.githubusercontent.com/78433466/234954329-6e47befd-26e0-46c4-8628-c01c2378b0a8.png" height="30" width="30"/>
