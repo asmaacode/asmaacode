@@ -1,5 +1,5 @@
 <h1 align="center"> <img
-      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello..Asma'a Here 👋
+      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="100" hight="100"/>Hello..Asma'a Here 👋
 
 <h3>
 I'm a software developer<img src="https://i.ibb.co/xfN0brH/working-cat.gif" width="30"/>
